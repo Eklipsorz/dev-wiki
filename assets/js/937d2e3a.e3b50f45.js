@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_wiki=self.webpackChunkdev_wiki||[]).push([[2414],{5045:function(e){e.exports=JSON.parse('{"name":"HTML","permalink":"/tags/html","docs":[{"id":"renderingPath/whatisRP","title":"\u6e32\u67d3\u8def\u5f91","description":"\u6e32\u67d3\u8def\u5f91\u7c21\u4ecb","permalink":"/renderingPath/whatisRP"}],"allTagsPath":"/tags"}')}}]);

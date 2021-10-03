@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_wiki=self.webpackChunkdev_wiki||[]).push([[4121],{8070:function(e){e.exports=JSON.parse('[{"name":"HTML","permalink":"/tags/html","count":1},{"name":"CSS","permalink":"/tags/css","count":1},{"name":"DOM","permalink":"/tags/dom","count":1}]')}}]);
